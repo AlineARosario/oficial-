@@ -1,0 +1,22 @@
+.container-fluid {
+    padding: 0;
+}
+
+.container-fluid .row {
+    margin: 0;
+}
+
+/* Navbar */
+
+.navbar  {
+    border-bottom: 1px solid #333;
+    margin-bottom: 20px;
+}
+
+.navbar-nav {
+    margin: auto;
+}
+
+.navbar-brand {
+    front-weight: bold;
+}
